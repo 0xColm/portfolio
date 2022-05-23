@@ -49,9 +49,9 @@ export const contacts: Contact[] = [
   },
   {
     name: "LOCATION & ZONE:",
-    info: "Slovenia, UTC+1",
+    info: "USA, UTC+5",
     icon: <IoLocationOutline className="contact-icon" />,
-    url: "https://www.timeanddate.com/time/zone/slovenia",
+    url: "https://www.timeanddate.com/time/zone/us",
   },
 ];
 
